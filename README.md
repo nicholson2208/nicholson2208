@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently studying governance in federated social media
-- ⚾ I also really enjoy sports, but especially baseball analytics
+- ⚾ I also really enjoy sports (but especially baseball) analytics
 
 
 [![website](https://img.shields.io/badge/-website-orange)](https://mnnicholson.com/)
